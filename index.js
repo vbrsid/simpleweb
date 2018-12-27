@@ -9,4 +9,5 @@ app.get('/', (req, res) => {
 app.listen(8080, () => {
 	console.log("listeing on port 8080...");
 	console.log("testing auto build feature in dockerhub...");
+	console.log("testing auto build feature in dockerhub...");
 }); 
